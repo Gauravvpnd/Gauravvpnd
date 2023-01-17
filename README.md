@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Gaurav</h1>
-<h3 align="center">A passionate frontend developer and learning DevOps i am also a ML enthusiast.</h3>
+<h3 align="center">Hello i am a computer science student currently in my freshman year i'm passionate about frontend development and learning DevOps i am also a ML enthusiast.</h3>
 <img src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif" width="300" align="right" alt="">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravvpnd&label=Profile%20views&color=0e75b6&style=flat" width="100" alt="gauravvpnd" /> </p>
 
