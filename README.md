@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Gaurav</h1>
-<h3 align="center">Hello I am a computer science student currently in my freshman year I'm passionate about MERN stack development, Data and Cloud.</h3>
+<h3 align="center">Hello I am a computer science student currently in my pre-final year I'm passionate about MERN stack development, Data and Cloud.</h3>
 <img src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif" width="300" align="right" alt="">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravvpnd&label=Profile%20views&color=0e75b6&style=flat" width="100" alt="gauravvpnd" /> </p>
 
