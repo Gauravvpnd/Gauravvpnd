@@ -20,7 +20,7 @@ I automate most of my internal work — from research to inbound — and I'm cur
 |--------|-------------|
 | [Bliq](https://getbliq.com) | Intent-based customer discovery |
 | [StatAI](https://statai.co) | Product idea analysis & competitor finder |
-| [AgentCMO](https://agentcmo.co) | Reddit inbound leads + content automation |
+| [AgentCMO](https://agentcmo.co) | Reddit inbound leads + GEO Foundation |
 | [MangoConnect](https://mangoconnect.vercel.app) | Know who you're meeting before you meet them |
 
 ---
