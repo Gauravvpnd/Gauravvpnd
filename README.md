@@ -1,33 +1,40 @@
+<h1 align="center">Hey, I'm Gaurav 👋</h1>
+<h3 align="center">Product person with generalist skills · Exploring AI × GTM · Based in Earth(remote)</h3>
 
-<h1 align="center">Hi 👋, I'm Gaurav</h1>
-<h3 align="center">Hello I am a computer science student currently in my pre-final year I'm passionate about MERN stack development, Data and Cloud.</h3>
-<img src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif" width="300" align="right" alt="">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravvpnd&label=Profile%20views&color=0e75b6&style=flat" width="100" alt="gauravvpnd" /> </p>
+<img src="https://komarev.com/ghpvc/?username=gauravvpnd&label=Profile%20views&color=0e75b6&style=flat" width="100" />
 
-<p align="left"> <a href="https://twitter.com/gauravvpnd" target="blank"><img src="https://img.shields.io/twitter/follow/gauravvpnd?logo=twitter&style=for-the-badge" alt="gauravvpnd" /></a> </p>
+---
 
-- 🔭 I’m currently working on **React based project**
+Currently building at **[Bliq](https://getbliq.com)** — helping companies find customers who are actively looking to buy.  
 
-- 🌱 I’m currently learning **React and Python**
 
-- 👯 I’m looking to collaborate on **Frontend projects and opensource**
+I automate most of my internal work — from research to inbound — and I'm currently deep into **GEO and inbound automation**.
 
-- 💬 Ask me about **Javascript**
+> Most of my code lives in private repos. What you see here is just the surface.
 
-- 📫 How to reach me **gouravpanda2k04@gmail.com**
+---
 
-- ⚡ Fun fact **I have also a deep interest in finance and investment.**
+### 🛠 Things I'm working on
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/gauravvpnd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gauravvpnd" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gaurav-p-814063218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurav-p-814063218" height="30" width="40" /></a>
-</p>
+| Project | What it does |
+|--------|-------------|
+| [Bliq](https://getbliq.com) | Intent-based customer discovery |
+| [StatAI](https://statai.co) | Product idea analysis & competitor finder |
+| [AgentCMO](https://agentcmo.co) | Reddit inbound leads + content automation |
+| [MangoConnect](https://mangoconnect.vercel.app) | Know who you're meeting before you meet them |
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p><p align="left"> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a><a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>  </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravvpnd&show_icons=true&locale=en&layout=compact" alt="gauravvpnd" /></p>
+### ✍️ I also write
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gauravvpnd&show_icons=true&locale=en" alt="gauravvpnd" /></p>
+**[Insatiable Pursuit](https://gauravvpnd.substack.com)** — a newsletter on product, AI, and GTM.
 
+---
+
+### 📬 Let's talk
+
+If you're into AI agents, sales automation, or AEO/GEO — [book a call](https://calendly.com/gauravgrv369/30min) or reach me at **gouravpanda2k04@gmail.com**
+
+<a href="https://x.com/gauravvppnd"><img src="https://img.shields.io/twitter/follow/gauravvpnd?logo=twitter&style=for-the-badge" /></a>
+<a href="https://linkedin.com/in/gaurav-p-814063218"><img src="https://img.shields.io/badge/LinkedIn-connect-blue?style=for-the-badge&logo=linkedin" /></a>
+<a href="https://gauravv.xyz"><img src="https://img.shields.io/badge/Website-gauravv.xyz-black?style=for-the-badge" /></a>
